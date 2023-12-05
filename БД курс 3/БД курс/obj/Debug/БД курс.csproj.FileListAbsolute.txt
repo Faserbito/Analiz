@@ -1,0 +1,53 @@
+D:\БД курсовая\БД курс — копия\БД курс\bin\Debug\База.mdf
+D:\БД курсовая\БД курс — копия\БД курс\bin\Debug\База_log.ldf
+D:\БД курсовая\БД курс — копия\БД курс\bin\Debug\БД курс.exe.config
+D:\БД курсовая\БД курс — копия\БД курс\bin\Debug\БД курс.exe
+D:\БД курсовая\БД курс — копия\БД курс\bin\Debug\БД курс.pdb
+D:\БД курсовая\БД курс — копия\БД курс\obj\Debug\БД курс.csproj.AssemblyReference.cache
+D:\БД курсовая\БД курс — копия\БД курс\obj\Debug\БД_курс.Form1.resources
+D:\БД курсовая\БД курс — копия\БД курс\obj\Debug\БД_курс.Form2.resources
+D:\БД курсовая\БД курс — копия\БД курс\obj\Debug\БД_курс.Properties.Resources.resources
+D:\БД курсовая\БД курс — копия\БД курс\obj\Debug\БД курс.csproj.GenerateResource.cache
+D:\БД курсовая\БД курс — копия\БД курс\obj\Debug\БД курс.csproj.CoreCompileInputs.cache
+D:\БД курсовая\БД курс — копия\БД курс\obj\Debug\БД курс.exe
+D:\БД курсовая\БД курс — копия\БД курс\obj\Debug\БД курс.pdb
+D:\БД курсовая\БД курс 3\БД курс\bin\Debug\База.mdf
+D:\БД курсовая\БД курс 3\БД курс\bin\Debug\База_log.ldf
+D:\БД курсовая\БД курс 3\БД курс\bin\Debug\БД курс.exe.config
+D:\БД курсовая\БД курс 3\БД курс\bin\Debug\БД курс.exe
+D:\БД курсовая\БД курс 3\БД курс\bin\Debug\БД курс.pdb
+D:\БД курсовая\БД курс 3\БД курс\obj\Debug\БД курс.csproj.AssemblyReference.cache
+D:\БД курсовая\БД курс 3\БД курс\obj\Debug\БД_курс.Form1.resources
+D:\БД курсовая\БД курс 3\БД курс\obj\Debug\БД_курс.Form2.resources
+D:\БД курсовая\БД курс 3\БД курс\obj\Debug\БД_курс.Properties.Resources.resources
+D:\БД курсовая\БД курс 3\БД курс\obj\Debug\БД курс.csproj.GenerateResource.cache
+D:\БД курсовая\БД курс 3\БД курс\obj\Debug\БД курс.csproj.CoreCompileInputs.cache
+D:\БД курсовая\БД курс 3\БД курс\obj\Debug\БД курс.exe
+D:\БД курсовая\БД курс 3\БД курс\obj\Debug\БД курс.pdb
+C:\Users\danil\OneDrive\Рабочий стол\БД курс 3\БД курс\bin\Debug\База.mdf
+C:\Users\danil\OneDrive\Рабочий стол\БД курс 3\БД курс\bin\Debug\База_log.ldf
+C:\Users\danil\OneDrive\Рабочий стол\БД курс 3\БД курс\bin\Debug\БД курс.exe.config
+C:\Users\danil\OneDrive\Рабочий стол\БД курс 3\БД курс\bin\Debug\БД курс.exe
+C:\Users\danil\OneDrive\Рабочий стол\БД курс 3\БД курс\bin\Debug\БД курс.pdb
+C:\Users\danil\OneDrive\Рабочий стол\БД курс 3\БД курс\obj\Debug\БД курс.csproj.AssemblyReference.cache
+C:\Users\danil\OneDrive\Рабочий стол\БД курс 3\БД курс\obj\Debug\БД_курс.Form1.resources
+C:\Users\danil\OneDrive\Рабочий стол\БД курс 3\БД курс\obj\Debug\БД_курс.Form2.resources
+C:\Users\danil\OneDrive\Рабочий стол\БД курс 3\БД курс\obj\Debug\БД_курс.Properties.Resources.resources
+C:\Users\danil\OneDrive\Рабочий стол\БД курс 3\БД курс\obj\Debug\БД курс.csproj.GenerateResource.cache
+C:\Users\danil\OneDrive\Рабочий стол\БД курс 3\БД курс\obj\Debug\БД курс.csproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\Рабочий стол\БД курс 3\БД курс\obj\Debug\БД курс.exe
+C:\Users\danil\OneDrive\Рабочий стол\БД курс 3\БД курс\obj\Debug\БД курс.pdb
+C:\Users\faser\OneDrive\Рабочий стол\БД курс 3\БД курс\bin\Debug\База.mdf
+C:\Users\faser\OneDrive\Рабочий стол\БД курс 3\БД курс\bin\Debug\База_log.ldf
+C:\Users\faser\OneDrive\Рабочий стол\БД курс 3\БД курс\bin\Debug\БД курс.exe.config
+C:\Users\faser\OneDrive\Рабочий стол\БД курс 3\БД курс\bin\Debug\БД курс.exe
+C:\Users\faser\OneDrive\Рабочий стол\БД курс 3\БД курс\bin\Debug\БД курс.pdb
+C:\Users\faser\OneDrive\Рабочий стол\БД курс 3\БД курс\obj\Debug\БД курс.csproj.AssemblyReference.cache
+C:\Users\faser\OneDrive\Рабочий стол\БД курс 3\БД курс\obj\Debug\БД курс.csproj.SuggestedBindingRedirects.cache
+C:\Users\faser\OneDrive\Рабочий стол\БД курс 3\БД курс\obj\Debug\БД_курс.Form1.resources
+C:\Users\faser\OneDrive\Рабочий стол\БД курс 3\БД курс\obj\Debug\БД_курс.Form2.resources
+C:\Users\faser\OneDrive\Рабочий стол\БД курс 3\БД курс\obj\Debug\БД_курс.Properties.Resources.resources
+C:\Users\faser\OneDrive\Рабочий стол\БД курс 3\БД курс\obj\Debug\БД курс.csproj.GenerateResource.cache
+C:\Users\faser\OneDrive\Рабочий стол\БД курс 3\БД курс\obj\Debug\БД курс.csproj.CoreCompileInputs.cache
+C:\Users\faser\OneDrive\Рабочий стол\БД курс 3\БД курс\obj\Debug\БД курс.exe
+C:\Users\faser\OneDrive\Рабочий стол\БД курс 3\БД курс\obj\Debug\БД курс.pdb
