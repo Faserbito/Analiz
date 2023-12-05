@@ -1,0 +1,43 @@
+C:\Users\USER\Desktop\Женя\Ball Throw\Ball Throw\bin\Debug\Ball Throw.exe.config
+C:\Users\USER\Desktop\Женя\Ball Throw\Ball Throw\bin\Debug\Ball Throw.exe
+C:\Users\USER\Desktop\Женя\Ball Throw\Ball Throw\bin\Debug\Ball Throw.pdb
+C:\Users\USER\Desktop\Женя\Ball Throw\Ball Throw\obj\Debug\Ball Throw.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Женя\Ball Throw\Ball Throw\obj\Debug\Ball_Throw.Form1.resources
+C:\Users\USER\Desktop\Женя\Ball Throw\Ball Throw\obj\Debug\Ball_Throw.Form2.resources
+C:\Users\USER\Desktop\Женя\Ball Throw\Ball Throw\obj\Debug\Ball_Throw.Properties.Resources.resources
+C:\Users\USER\Desktop\Женя\Ball Throw\Ball Throw\obj\Debug\Ball Throw.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Женя\Ball Throw\Ball Throw\obj\Debug\Ball Throw.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Женя\Ball Throw\Ball Throw\obj\Debug\Ball Throw.exe
+C:\Users\USER\Desktop\Женя\Ball Throw\Ball Throw\obj\Debug\Ball Throw.pdb
+C:\Users\USER\Desktop\Женя\2 курс\ЯП\Курсовая работа\Ball Throw\Ball Throw\bin\Debug\Ball Throw.exe.config
+C:\Users\USER\Desktop\Женя\2 курс\ЯП\Курсовая работа\Ball Throw\Ball Throw\bin\Debug\Ball Throw.exe
+C:\Users\USER\Desktop\Женя\2 курс\ЯП\Курсовая работа\Ball Throw\Ball Throw\bin\Debug\Ball Throw.pdb
+C:\Users\USER\Desktop\Женя\2 курс\ЯП\Курсовая работа\Ball Throw\Ball Throw\obj\Debug\Ball Throw.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Женя\2 курс\ЯП\Курсовая работа\Ball Throw\Ball Throw\obj\Debug\Ball Throw.csproj.ResolveComReference.cache
+C:\Users\USER\Desktop\Женя\2 курс\ЯП\Курсовая работа\Ball Throw\Ball Throw\obj\Debug\Ball_Throw.Form1.resources
+C:\Users\USER\Desktop\Женя\2 курс\ЯП\Курсовая работа\Ball Throw\Ball Throw\obj\Debug\Ball_Throw.Form2.resources
+C:\Users\USER\Desktop\Женя\2 курс\ЯП\Курсовая работа\Ball Throw\Ball Throw\obj\Debug\Ball_Throw.Form3.resources
+C:\Users\USER\Desktop\Женя\2 курс\ЯП\Курсовая работа\Ball Throw\Ball Throw\obj\Debug\Ball_Throw.Properties.Resources.resources
+C:\Users\USER\Desktop\Женя\2 курс\ЯП\Курсовая работа\Ball Throw\Ball Throw\obj\Debug\Ball Throw.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Женя\2 курс\ЯП\Курсовая работа\Ball Throw\Ball Throw\obj\Debug\Ball Throw.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Женя\2 курс\ЯП\Курсовая работа\Ball Throw\Ball Throw\obj\Debug\Ball Throw.exe
+C:\Users\USER\Desktop\Женя\2 курс\ЯП\Курсовая работа\Ball Throw\Ball Throw\obj\Debug\Ball Throw.pdb
+C:\Users\Олег\Desktop\Женя\Институт\2 курс\ЯП\Курсовая работа\Ball Throw\Ball Throw\bin\Debug\Ball Throw.exe.config
+C:\Users\Олег\Desktop\Женя\Институт\2 курс\ЯП\Курсовая работа\Ball Throw\Ball Throw\bin\Debug\Ball Throw.exe
+C:\Users\Олег\Desktop\Женя\Институт\2 курс\ЯП\Курсовая работа\Ball Throw\Ball Throw\bin\Debug\Ball Throw.pdb
+C:\Users\Олег\Desktop\Женя\Институт\2 курс\ЯП\Курсовая работа\Ball Throw\Ball Throw\obj\Debug\Ball Throw.csprojAssemblyReference.cache
+C:\Users\Олег\Desktop\Женя\Институт\2 курс\ЯП\Курсовая работа\Ball Throw\Ball Throw\obj\Debug\Ball Throw.csproj.ResolveComReference.cache
+C:\Users\Олег\Desktop\Женя\Институт\2 курс\ЯП\Курсовая работа\Ball Throw\Ball Throw\obj\Debug\Ball_Throw.Form1.resources
+C:\Users\Олег\Desktop\Женя\Институт\2 курс\ЯП\Курсовая работа\Ball Throw\Ball Throw\obj\Debug\Ball_Throw.Form2.resources
+C:\Users\Олег\Desktop\Женя\Институт\2 курс\ЯП\Курсовая работа\Ball Throw\Ball Throw\obj\Debug\Ball_Throw.Form3.resources
+C:\Users\Олег\Desktop\Женя\Институт\2 курс\ЯП\Курсовая работа\Ball Throw\Ball Throw\obj\Debug\Ball_Throw.Properties.Resources.resources
+C:\Users\Олег\Desktop\Женя\Институт\2 курс\ЯП\Курсовая работа\Ball Throw\Ball Throw\obj\Debug\Ball Throw.csproj.GenerateResource.cache
+C:\Users\Олег\Desktop\Женя\Институт\2 курс\ЯП\Курсовая работа\Ball Throw\Ball Throw\obj\Debug\Ball Throw.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Desktop\Женя\Институт\2 курс\ЯП\Курсовая работа\Ball Throw\Ball Throw\obj\Debug\Ball Throw.exe
+C:\Users\Олег\Desktop\Женя\Институт\2 курс\ЯП\Курсовая работа\Ball Throw\Ball Throw\obj\Debug\Ball Throw.pdb
+F:\ЯП\Курсовая работа\Ball Throw\Ball Throw\obj\Debug\Ball Throw.csprojResolveAssemblyReference.cache
+F:\ЯП\Курсовая работа\Ball Throw\Ball Throw\obj\Debug\Ball Throw.exe
+F:\ЯП\Курсовая работа\Ball Throw\Ball Throw\obj\Debug\Ball Throw.pdb
+E:\ЯП\Курсовая работа\Ball Throw\Ball Throw\obj\Debug\Ball Throw.csprojResolveAssemblyReference.cache
+E:\ЯП\Курсовая работа\Ball Throw\Ball Throw\obj\Debug\Ball Throw.exe
+E:\ЯП\Курсовая работа\Ball Throw\Ball Throw\obj\Debug\Ball Throw.pdb
